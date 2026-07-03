@@ -75,10 +75,3 @@ More realistic stage search:
 bash scripts/run_demo.sh --workload resnet-stage --warmup 1 --iters 2 --random-budget 60 --hill-steps 8 --grid-max-evals 180
 ```
 
-## Portfolio Framing
-
-Use this project to show that you can:
-
-- convert research code ideas into reproducible engineering demos,
-- treat scheduling as an optimization problem,
-- compare search methods with measurable outcomes on CNN workloads.
