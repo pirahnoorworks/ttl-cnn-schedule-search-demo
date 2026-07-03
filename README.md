@@ -75,3 +75,5 @@ More realistic stage search:
 bash scripts/run_demo.sh --workload resnet-stage --warmup 1 --iters 2 --random-budget 60 --hill-steps 8 --grid-max-evals 180
 ```
 
+
+> Disclaimer: This demo was created for portfolio purposes with assistance from GitHub Copilot.
